@@ -14,7 +14,8 @@ Now I want to make those computers available at various locations (2-3). Distanc
 There are already a number of fiber optic solutions out there to solve the distance issue (https://fibercommand.com, https://www.heyoptics.net/) and I could basically have one of those multi cables to each terminal location:
 
 **MPO Fiber Connection**
-<img width="1157" alt="image" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/06467cfd-597a-4c98-a663-a6c245083365">
+<img width="1151" alt="image" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/5a5c180c-fc97-4453-bf09-654362d0de5e">
+
 
 What is missing now is basically a switching unit in my server rack that allows me to say ComputerXYZ passthrough to TerminalXYZ.
 
