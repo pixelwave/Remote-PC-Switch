@@ -37,7 +37,7 @@ Hooked up DP2.1 switch to ESP32. Switching and read-out of current active port s
 Disassembled a low cost DP2.1 (2x1) switch and established wireing diagram:
 <img width="1151" alt="image" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/f2c295b1-300d-4074-88fc-74dcd4d00830">
 
-**2024-01-10**
+**2024-01-12**
 
 Purchased test components. Works with two DP2.1 2x1 switches in a row as intended:
 ![IMG_2423](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/e069e56e-ae02-4bf7-b1aa-4f58e68b3c98)
