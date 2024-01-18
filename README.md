@@ -28,7 +28,7 @@ This project will be periodically updated until completion!
 **2024-01-18**
 
 Extended the diagram to support "Matrix" capability. Before only one terminal could be used simoultaneously. Now both can be used at the same time (A -> B, B -> A or A -> A, B -> B).  
-<img width="1126" alt="Screenshot 2024-01-18 at 13 08 16" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/77feb93f-9a35-4605-8f82-7218e43f9afb">
+<img width="1094" alt="image" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/7d6e0627-242f-4d0f-b22a-03c628b9888e">
 
 **2024-01-16**
 
