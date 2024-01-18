@@ -25,6 +25,11 @@ This project will be periodically updated until completion!
 
 **Updates**
 
+**2024-01-18**
+
+Extended the diagram to support "Matrix" capability. Before only one terminal could be used simoultaneously. Now both can be used at the same time (A -> B, B -> A or A -> A, B -> B).  
+<img width="1126" alt="Screenshot 2024-01-18 at 13 08 16" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/77feb93f-9a35-4605-8f82-7218e43f9afb">
+
 **2024-01-16**
 
 Hooked up DP2.1 switch to ESP32. Switching and read-out of current active port successful!
