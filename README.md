@@ -25,6 +25,12 @@ This project will be periodically updated until completion!
 
 **Updates**
 
+**2024-01-21**
+
+Complete wireing finalized and optical equipment assembled:
+<img width="944" alt="Screenshot 2024-01-21 at 12 51 43" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/79a1bded-2a69-4a56-a65c-0c4b128abae0">
+<img width="1757" alt="Screenshot 2024-01-21 at 12 53 29" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/fadeb416-dd41-4f8c-a9c6-73c30b8753ff">
+
 **2024-01-18**
 
 Extended the diagram to support "Matrix" capability. Before only one terminal could be used simoultaneously. Now both can be used at the same time (A -> B, B -> A or A -> A, B -> B).  
