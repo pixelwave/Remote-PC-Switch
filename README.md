@@ -11,10 +11,12 @@ Important bandwith parameters:
 
 Now I want to make those computers available at various locations (2-3). Distance varies between 10 - 30+ meters.
 
-There are already a number of fiber optic solutions out there to solve the distance issue (https://fibercommand.com, https://www.heyoptics.net/) and I could basically have one of those multi cables to each terminal location:
+~~There are already a number of fiber optic solutions out there to solve the distance issue (https://fibercommand.com, https://www.heyoptics.net/) and I could basically have one of those multi cables to each terminal location:~~
 
-**MPO Fiber Connection**
+~~**MPO Fiber Connection**~~
 <img width="1151" alt="image" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/5a5c180c-fc97-4453-bf09-654362d0de5e">
+
+**Both potential fibercommand and heyoptics solutions and especially customer support have proven "complicated". Will switch to a different route for now with single fiber cable solutions for DP and USB. Will update soon after cable compatibility tests.**
 
 
 What is missing now is basically a switching unit in my server rack that allows me to say ComputerXYZ passthrough to TerminalXYZ.
@@ -24,6 +26,11 @@ Since are no 4K@144Hz units available I decided to built a switch myself.
 This project will be periodically updated until completion!
 
 **Updates**
+
+**2024-01-21**
+
+Updated and simplified the ESP32 control scheme. Only 2 Optocouplers and 2 Controls PINs required now.
+<img width="1179" alt="Screenshot 2024-01-22 at 12 03 27" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/e428fb1a-c30e-4189-b233-f0e1b8d4c131">
 
 **2024-01-21**
 
