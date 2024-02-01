@@ -27,6 +27,11 @@ This project will be periodically updated until completion!
 
 **Updates**
 
+**2024-02-01**
+
+Just a quick update. 1U rack mount design is on-going and in current prototyping phase:
+<img width="1228" alt="Screenshot 2024-02-01 at 09 33 20" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/4de433f8-9092-4467-8cbd-eb466006e6fd">
+
 **2024-01-21**
 
 Updated and simplified the ESP32 control scheme. Only 2 Optocouplers and 2 Controls PINs required now.
