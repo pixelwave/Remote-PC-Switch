@@ -27,6 +27,11 @@ This project will be periodically updated until completion!
 
 **Updates**
 
+**2024-02-02**
+
+Found a good way to internally connect both splitters without producing much cable-length-waste (flat ribbon extension cables):
+<img width="1006" alt="Screenshot 2024-02-02 at 15 55 30" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/cca0eb70-39d8-4c6e-82bb-556b54c42b4c">
+
 **2024-02-01**
 
 Just a quick update. 1U rack mount design is on-going and in current prototyping phase:
