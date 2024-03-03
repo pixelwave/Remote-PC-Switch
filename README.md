@@ -31,8 +31,7 @@ This project will be periodically updated until completion!
 
 USB-C 2x1 switch testing finalized. Updated wiring for 4x PC inputs to 2x Terminal outputs:
 
-![wiring](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/41e189b8-6522-4291-a8f4-3bb94d7bf9a9)
-
+![wiring](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/5d6eeed4-9dbc-4c59-a7c0-d52c93b4a293)
 
 **2024-02-02**
 
