@@ -40,6 +40,7 @@ USB-C 2x1 switch testing finalized. Updated wiring for 4x PC inputs to 2x Termin
 
 ![wiring](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/5d6eeed4-9dbc-4c59-a7c0-d52c93b4a293)
 
+
 **2024-02-02**
 
 Found a good way to internally connect both splitters without producing much cable-length-waste (flat ribbon extension cables):
