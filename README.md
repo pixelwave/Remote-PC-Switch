@@ -32,7 +32,7 @@ This project will be periodically updated until completion!
 Wiring scheme and test setup complete. All assembly parts printed. Now to final testing:
 
 <img width="1678" alt="Screenshot 2024-04-03 at 07 58 05" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/93d60018-cd4a-4a78-ab48-1e2c54afae33">
-![IMG_2968](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/b1284656-f565-4b6e-bdc3-d8e28aeb6354)
+![IMG_2968](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/1bdd630d-a34f-48a5-947e-110b199ff663)
 
 **2024-03-03**
 
