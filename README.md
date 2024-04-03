@@ -28,16 +28,12 @@ This project will be periodically updated until completion!
 **Updates**
 
 
-![IMG_2968](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/e4984c09-5248-4d1c-a799-0e14be96d140)
-
-
 **2024-04-03**
 
 Wiring scheme and test setup complete. All assembly parts printed. Now to final testing:
 
+![IMG_2968](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/e4984c09-5248-4d1c-a799-0e14be96d140)
 <img width="1678" alt="Screenshot 2024-04-03 at 07 58 05" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/93d60018-cd4a-4a78-ab48-1e2c54afae33">
-
-
 
 **2024-03-03**
 
