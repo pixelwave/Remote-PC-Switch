@@ -27,6 +27,13 @@ This project will be periodically updated until completion!
 
 **Updates**
 
+**2024-04-03**
+
+Wiring scheme and test setup complete. All assembly parts printed. Now to final testing:
+
+<img width="1678" alt="Screenshot 2024-04-03 at 07 58 05" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/93d60018-cd4a-4a78-ab48-1e2c54afae33">
+![IMG_2968](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/b1284656-f565-4b6e-bdc3-d8e28aeb6354)
+
 **2024-03-03**
 
 USB-C 2x1 switch testing finalized. Updated wiring for 4x PC inputs to 2x Terminal outputs:
