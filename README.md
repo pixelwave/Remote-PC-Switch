@@ -30,7 +30,7 @@ This project will be periodically updated until completion!
 
 **2024-04-20**
 
-Printed case and assembled, wired up to new GIGABYTE AORUS FO32U2P (DP2.1 OLED!) monitor for further testing. Trying to find a compatible fibre DP cable that works long distance with 4K@240Hz (15M):
+Changed some components around, added Mini-DP support. Testing GIGABYTE AORUS FO32U2P (DP2.1 OLED!) monitor and trying to find a compatible fibre DP cable that works long distance with 4K@240Hz (15M):
 ![IMG_3097](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/ddf7a283-fd2a-41b6-9312-6b4dc10342ec)
 
 
