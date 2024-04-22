@@ -28,6 +28,12 @@ This project will be periodically updated until completion!
 **Updates**
 
 
+**2024-04-22**
+
+Some issues emerged in the testing setup especially trying to run full 4K 240Hz stable using fibre connections and a single switch (!):
+![full-t](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/70afe063-4032-4e22-8224-01454dbb5753)
+
+
 **2024-04-20**
 
 Changed some components around, added Mini-DP support. Testing GIGABYTE AORUS FO32U2P (DP2.1 OLED!) monitor and trying to find a compatible fibre DP cable that works long distance with 4K@240Hz (15M):
