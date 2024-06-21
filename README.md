@@ -42,8 +42,8 @@ Hardware Components used:
 + **[Desk Mount for Control Display](https://www.printables.com/model/918067-desk-mount-for-lilygo-t-display-s3-long-touchscree)**
 
 ESPHome Scripts:
-+ **PC Controller** (esphome/pc_controller.yaml)
-+ **Desk Controller** (esphome/desk_controller.yaml)
++ **PC Controller** (esphome/pc_control.yaml)
++ **Desk Controller** (esphome/desk_control.yaml)
 
 **Device**
 
