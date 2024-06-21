@@ -27,6 +27,35 @@ This project will be periodically updated until completion!
 
 **Updates**
 
+**2024-06-21** - VERSION 1.0
+
+My setup is now (semi) final. Installed everything in my rack and it is working! 
+
+Hardware Components used:
++ **Retractable 2U Tray** (Digitus, DN-19-TRAY-2-450-SW)
++ **ESP32** (Lilygo T-ETH-Lite + POE Shield)
++ 6x **DP2.1 Switch** (2x1, Bi-Directional)
++ 4x **USB-C Switch** (2x1, Bi-Directional)
+
+3D Printables:
++ **1.5U Case Rackmount Case for Digitus** (> LINK)
++ **Desk Mount for Control Display **(T-Display-S3-Long)**** (> LINK)
+
+**Device**
+
+<img width="823" alt="Screenshot 2024-06-21 at 07 59 36" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/2e9d59a7-cae9-4c87-9da3-6b6a1d0a9133">
+
+**Wireing**
+
+<img width="597" alt="Screenshot 2024-06-21 at 08 00 33" src="https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/b1654824-a89f-458b-9d94-9161c525c103">
+
+**Switching at Terminals**
+
+To switch between the PCs at the terminals I use another ESP32 running ESPHome and hooked up to Home Assistant.
+
+![IMG_3739](https://github.com/pixelwave/Remote-PC-Switch/assets/19491804/35879aac-4d9c-4f20-83e1-6cab49310442)
+
+---
 
 **2024-04-22**
 
