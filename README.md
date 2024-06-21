@@ -38,8 +38,8 @@ Hardware Components used:
 + 4x **USB-C Switch** (2x1, Bi-Directional)
 
 3D Printables:
-+ **1.5U Case Rackmount Case for Digitus** (> LINK)
-+ **Desk Mount for Control Display **(T-Display-S3-Long)**** (> LINK)
++ **[1.5U Case Rackmount Case for Digitus](https://www.printables.com/model/918894-2u-rackmount-case-for-19-digitus-retractable-shelv)**
++ **[Desk Mount for Control Display](https://www.printables.com/model/918067-desk-mount-for-lilygo-t-display-s3-long-touchscree) **(T-Display-S3-Long)**** (> LINK)
 
 **Device**
 
