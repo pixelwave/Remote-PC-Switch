@@ -6,7 +6,7 @@ I am currently trying to realize the following project:
 I have a server rack with a number of computers (gaming, work, ..). Each computer has two monitor outs (Displayport 1.4, 4K@144Hz) and a single peripheral out (USB-C 10Gbps). 
 
 Important bandwith parameters:
-- Displayport: min. **1.4 4K@144Hz via DSC**, ideal: 2.1 4K@240Hz
+- Displayport: min. **1.4 4K@240Hz via DSC**, ideal: 2.1 4K@240Hz no compression capable
 - USB-C: min. **5Gbps** / ideal 10Gbps
 
 Now I want to make those computers available at various locations (2-3). Distance varies between 10 - 30+ meters.
